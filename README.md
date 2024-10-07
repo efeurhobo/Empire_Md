@@ -39,7 +39,6 @@
 ---
 1. ***Get [`SESSION ID`](https://suhail-md-vtsf.onrender.com/)  by Pair Code Or scanning QR code. `Whatapp>Three dots>Linked Devices`***
 2.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/efeurhobo/Empire_Md/fork)***
-   
 3. [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/efeurhobo/Empire_Md)
 4. [![Deploy to Replit](https://replit.com/badge.svg)](https://replit.com/github/efeurhobo/Empire_Md)
 5.  ***Deploy on [`Koyeb`](https://suhail-web.vercel.app/deploy?platform=koyeb)***
