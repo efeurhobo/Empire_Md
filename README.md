@@ -42,7 +42,7 @@
 3.  ***Get a Mongodb uri from [`Mongodb`] | [`Tutorial`](https://youtu.be/4YEUtGlqkl4).***
 4.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/efeurhobo/Empire_Md/fork)***
    
-5.  ***Deploy on [`HEROKU`](https://suhail-web.vercel.app//deploy?platform=heroku)***
+5.  ***Deploy on [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/efeurhobo/Empire_Md)***
 6.  ***Deploy on [`Replit`](https://replit.com/github/efeurhobo/Empire_Md)***  
 7.  ***Deploy on [`Koyeb`](https://suhail-web.vercel.app/deploy?platform=koyeb)***
 8.  ***Deploy on [`Glitch`](https://suhail-web.vercel.app/deploy?platform=glitch)***
