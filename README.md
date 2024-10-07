@@ -38,17 +38,15 @@
 ## Deployment Methods
 ---
 1. ***Get [`SESSION ID`](https://suhail-md-vtsf.onrender.com/)  by Pair Code Or scanning QR code. `Whatapp>Three dots>Linked Devices`***
-2. 
-3.  ***Get a Mongodb uri from [`Mongodb`] | [`Tutorial`](https://youtu.be/4YEUtGlqkl4).***
-4.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/efeurhobo/Empire_Md/fork)***
+2.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/efeurhobo/Empire_Md/fork)***
    
-5.  ***Deploy on [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/efeurhobo/Empire_Md)***
-6.  ***Deploy on [`Replit`](https://replit.com/github/efeurhobo/Empire_Md)***  
-7.  ***Deploy on [`Koyeb`](https://suhail-web.vercel.app/deploy?platform=koyeb)***
-8.  ***Deploy on [`Glitch`](https://suhail-web.vercel.app/deploy?platform=glitch)***
-9.  ***Deploy on [`CodeSpace`](https://suhail-web.vercel.app/deploy?platform=codespace)***
-10. ***Deploy on [`Render`](https://suhail-web.vercel.app/deploy?platform=render)***
-11. ***Deploy on [`Railway`](https://suhail-web.vercel.app/deploy?platform=railway)***
+3.    [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/efeurhobo/Empire_Md)***
+4.  ***Deploy on [`Replit`](https://replit.com/github/efeurhobo/Empire_Md)***  
+5.  ***Deploy on [`Koyeb`](https://suhail-web.vercel.app/deploy?platform=koyeb)***
+6.  ***Deploy on [`Glitch`](https://suhail-web.vercel.app/deploy?platform=glitch)***
+7.  ***Deploy on [`CodeSpace`](https://suhail-web.vercel.app/deploy?platform=codespace)***
+8. ***Deploy on [`Render`](https://suhail-web.vercel.app/deploy?platform=render)***
+9. ***Deploy on [`Railway`](https://suhail-web.vercel.app/deploy?platform=railway)***
 ##
 
 ## CONTACT 𝐎𝐧𝐥𝐲_𝐨𝐧𝐞_🥇𝐄𝐦𝐩𝐢𝐫𝐞 HERE
