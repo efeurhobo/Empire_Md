@@ -16,47 +16,62 @@
   <p align="center"> Empire_Md whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
 
 
+Deployment Methods
   
- ## Deployment Methods
  1.***Get [`SESSION ID`](https://suhail-md-vtsf.onrender.com/)  by Pair Code Or scanning QR code. `Whatapp>Three dots>Linked Devices`***
 ------------------------------------------------
 2.***<a href="https://github.com/efeurhobo/Empire_Md/fork"><img title="Empire_Md" src="https://img.shields.io/badge/FORK-Empire_Md-h?color=blue&style=for-the-badge&logo=stackshare"></a>***
 ------------------------------------------------
  4.  #### DEPLOY IN HEROKU 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/efeurhobo/Empire_Md)
+<a href="https://heroku.com/deploy?template=https://github.com/efeurhobo/Empire_Md" target="_blank">
+    <img alt="HEROKU" src="https://img.shields.io/badge/HEROKU-h?color=6762A6&style=for-the-badge&logo=heroku" />
+</a>
 
 --------
 5.  #### DEPLOY IN REPLIT
 
-   <a href='https://repl.it/github/efeurhobo/Empire_Md' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+   <a href="https://replit.com/github/efeurhobo/Empire_Md" target="_blank">
+    <img alt="REPLIT" src="https://img.shields.io/badge/REPLIT-h?color=orange&style=for-the-badge&logo=replit" />
+</a>
 
 --------
 6.  #### DEPLOY IN KOYEB
 
-<a href='https://app.koyeb.com/auth/signin' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/efeurhobo/Empire_Md" target="_blank">
+    <img alt="KOYEB" src="https://img.shields.io/badge/KOYEB-h?color=blue&style=for-the-badge&logo=koyeb&logoColor=white" />
+</a>
 
 --------
 7.  #### DEPLOY IN GLITCH
 
-<a href='https://glitch.com/signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/GLITCH-h?color=pink&style=for-the-badge&logo=glitch'/></a></p>
+<a href="https://glitch.com/edit/#!/import/github/efeurhobo/Empire_Md" target="_blank">
+    <img alt="GLITCH" src="https://img.shields.io/badge/GLITCH-h?color=pink&style=for-the-badge&logo=glitch" />
+</a>
 
 --------
 
 8.  #### DEPLOY TO CODESPACE
 
-<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CODESPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+<a href="https://github.com/codespaces/new?repository=efeurhobo/Empire_Md" target="_blank">
+    <img alt="CODESPACE" src="https://img.shields.io/badge/CODESPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode" />
+</a>
 
 --------
 
 9. #### DEPLOY TO RENDER
 
-<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
+<a href="https://render.com/deploy?repo=https://github.com/efeurhobo/Empire_Md" target="_blank">
+    <img alt="RENDER" src="https://img.shields.io/badge/RENDER-h?color=blueviolet&style=for-the-badge&logo=render" />
+</a>
 
---------
+----------------------------------------
 10. #### DEPLOY TO RAILWAY
 
-<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=black&style=for-the-badge&logo=railway'/></a></p>
+<a href="https://railway.app/new/template?template=https://github.com/efeurhobo/Empire_Md" target="_blank">
+    <img alt="RAILWAY" src="https://img.shields.io/badge/RAILWAY-h?color=0B0D0E&style=for-the-badge&logo=railway" />
+</a>
+
 ----------------------------------------
 [![Contact Us](https://img.shields.io/badge/Contact%20Us-Click%20Here-brightgreen)](https://onlyoneempire.vercel.app/)
 -------------------------------------------
