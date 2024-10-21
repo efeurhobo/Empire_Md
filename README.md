@@ -51,14 +51,6 @@ Deployment Methods
 
 --------
 
-8.  #### DEPLOY TO CODESPACE
-
-<a href="https://github.com/codespaces/new?repository=efeurhobo/Empire_Md" target="_blank">
-    <img alt="CODESPACE" src="https://img.shields.io/badge/CODESPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode" />
-</a>
-
---------
-
 9. #### DEPLOY TO RENDER
 
 <a href="https://render.com/deploy?repo=https://github.com/efeurhobo/Empire_Md" target="_blank">
