@@ -1,0 +1,27 @@
+services:
+  - type: web
+    name: Empire_Md
+    env: docker
+    plan: free
+    dockerfilePath: ./lib/Dockerfile  # Adjusted to point to the Dockerfile in the lib folder
+    envVars:
+      OWNER_NAME: "𝐎𝐧𝐥𝐲_𝐨𝐧𝐞_🥇𝐄𝐦𝐩𝐢𝐫𝐞"
+      CAN_WELCOME: "false"
+      CAN_GOODBYE: "false"
+      BOT_NAME: "Empire_Md"
+      TZ: "Lagos/Nigeria."
+      FLUSH: "false"
+      WARN_COUNT: "3"
+      HEROKU_API_KEY: ""  # Set your Heroku API key
+      HEROKU_APP_NAME: ""  # Set your Heroku app name
+      MSGS_IN_LOG: "false"
+      PREFIX: "."
+      OWNER_NUMBER: "2349030546521"
+      SESSION_ID: "put session id here"
+      OPENAI_API_KEY: "sk-c5_mjyTPg76Sl7gx6yADErKcLzUlfhs4KcNxFBFso4T3BlbkFJQpbBq0QN6CAr8ia7bqJmveKPTmentTE6guHxlLUnUA"  # Set your OpenAI API key
+      ELEVENLAB_API_KEY: "sk_59adeb8a55b9c60aba5ed8b8001135049f773814fb35e722"  # Set your ElevenLab API key
+      REMOVE_BG_KEY: "kUSnarK3Xxue73tRHxzrd9sb"  # Set your Remove.bg API key
+      MODE: "private"
+      PACK_NAME: "Sticker by"
+      PACK_AUTHER: "Empire_Md"
+    autoDeploy: true
