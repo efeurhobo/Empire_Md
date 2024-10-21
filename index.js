@@ -1,11 +1,3 @@
-const bot = require(__dirname + '/lib/smd')
-const { VERSION } = require(__dirname + '/config')
-const express = require('express'); // If you're using Express
-const app = express(); // Create an Express app
-
-// Use the PORT environment variable provided by Render
-const PORT = process.env.PORT ||10000; 
-
 const start = async () => {
     Debug.info(`Empire_Md ${VERSION}`)
     try {
@@ -24,8 +16,8 @@ const start = async () => {
             console.log(`Server is running on port ${PORT}`);
         });
     } catch (error) {
-        Debug.error(error);
-        start();
+        Debug.error('Error starting the server:', error);
+        process.exit(1); // Exit the process to let Render restart it
     }
 }
 start();
