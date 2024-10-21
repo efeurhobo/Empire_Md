@@ -4,7 +4,7 @@ const express = require('express'); // If you're using Express
 const app = express(); // Create an Express app
 
 // Use the PORT environment variable provided by Render
-const PORT = process.env.PORT || 8000; 
+const PORT = process.env.PORT ||10000; 
 
 const start = async () => {
     Debug.info(`Empire_Md ${VERSION}`)
