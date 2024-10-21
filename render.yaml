@@ -63,4 +63,3 @@ services:
         value: "Empire_Md"
         required: false
     autoDeploy: true
-    port: 8000  # Exposed port
