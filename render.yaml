@@ -5,7 +5,7 @@ services:
     plan: free
     dockerfilePath: ./path/to/Dockerfile  # Change this to the actual path of your Dockerfile
     envVars:
-      OWNER_NAME: "𝐎𝐧𝐥𝐲_𝐨𝐧𝐞_🥇𝐄𝐦𝐩𝐢𝐫𝐞"
+      OWNER_NAME: "Empire_Md"
       CAN_WELCOME: "false"
       CAN_GOODBYE: "false"
       BOT_NAME: "Empire_Md"
