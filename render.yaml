@@ -3,6 +3,5 @@ services:
     name: Empire_Md
     env: docker
     plan: free
-    dockerfilePath: ./lib/Dockerfile 
-    port: 8000 
+    dockerfilePath: ./lib/Dockerfile
     autoDeploy: true
