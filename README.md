@@ -20,7 +20,7 @@ Deployment Methods
   
  1.***Get [`SESSION ID`](https://suhail-md-vtsf.onrender.com/)  by Pair Code Or scanning QR code. `Whatapp>Three dots>Linked Devices`***
 ------------------------------------------------
-2.***<a href="https://github.com/efeurhobo/Empire_Md/fork"><img title="Empire_Md" src="https://img.shields.io/badge/FORK-Empire_Md-h?color=blue&style=for-the-badge&logo=stackshare"></a>***
+2.***`Star ⭐` repository & Click [`FORK`](https://github.com/efeurhobo/Empire_Md/fork)***
 ------------------------------------------------
  4.  #### DEPLOY IN HEROKU 
 
