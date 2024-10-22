@@ -53,9 +53,10 @@ Deployment Methods
 
 9. #### DEPLOY TO RENDER
 
-<a href="https://app.koyeb.com/deploy?name=Empire_Md&type=git&repository=github.com/efeurhobo/Empire_Md&builder=dockerfile&dockerfile=lib%2FDockerfile&env%5BSESSION_ID%5D=&env%5BOWNER_NUMBER%5D=&ports=8000%3Bhttp%3B%2F&plan=free" target="_blank">
-    <img alt="KOYEB" src="https://img.shields.io/badge/KOYEB-h?color=blue&style=for-the-badge&logo=koyeb&logoColor=white" />
+<a href="https://render.com/deploy?repo=https://github.com/efeurhobo/Empire_Md&env[SESSION_ID]=&env[OWNER_NUMBER]=" target="_blank">
+    <img alt="RENDER" src="https://img.shields.io/badge/RENDER-h?color=blueviolet&style=for-the-badge&logo=render" />
 </a>
+
 
 ----------------------------------------
 10. #### DEPLOY TO RAILWAY
