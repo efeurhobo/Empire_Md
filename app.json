@@ -11,7 +11,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "𝐎𝐧𝐥𝐲_𝐨𝐧𝐞_🥇𝐄𝐦𝐩𝐢𝐫𝐞",
+      "value": "𝐻𝑎𝑐𝑘𝑒𝑟 𝑂𝑛𝑙𝑦_𝑜𝑛𝑒_🥇𝐸𝑚𝑝𝑖𝑟𝑒",
       "required" :true
     },   
      
@@ -34,7 +34,7 @@
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :true,    
-      "value": "Lagos/Nigeria."
+      "value": "Africa/Lagos."
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responed (After deployement!)",
@@ -70,7 +70,7 @@
       "value": "2348078582627"
     },
     "SESSION_ID": {
-      "description": "put your SESSION_ID here.",
+      "description": "put your Session id below.",
       "value": "put your SESSION_ID"
   
     },
