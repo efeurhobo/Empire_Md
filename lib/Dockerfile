@@ -7,9 +7,9 @@
 #=============================================#
 # 
 #    * @project_name : Suhail-Md
-#    * @author : @𝐎𝐧𝐥𝐲_𝐨𝐧𝐞_🥇𝐄𝐦𝐩𝐢𝐫𝐞
-#    * @youtube : https://www.youtube.com/SuhailTechInfo
-#    * @description : Suhail-Md ,A Multi-functional whatsapp bot md.
+#    * @author : @𝐻𝑎𝑐𝑘𝑒𝑟 𝑂𝑛𝑙𝑦_𝑜𝑛𝑒_🥇𝐸𝑚𝑝𝑖𝑟𝑒
+#    * @youtube : https://www.youtube.com/only_one_empire
+#    * @description : Empire_Md ,A Multi-functional whatsapp bot md.
 #    * @version 1.3.7
 
 FROM quay.io/suhailtechinfo/suhail-v2
