@@ -1,6 +1,6 @@
 ## Empire_Md
 <p align="center">
-<a href="https://github.com/efeurhobo"><img title="Author" src="https://i.imgur.com/2iHR6dE.jpeg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/efeurhobo"><img title="Author" src="https://i.ibb.co/tcYfcQP/file-1.jpg?style=for-the-badge&logo=github"></a>
 
 <p align="center">
 
